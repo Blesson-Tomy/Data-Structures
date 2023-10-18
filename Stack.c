@@ -1,5 +1,5 @@
 /********************************************************************************************
- * File             :   Stack_Operations.c
+ * File             :   Stack.c
  * Program          :   Program to perform stack operation
  * Language         :   C Language
  * Author           :   Blesson Karikulammalayil Tomy
