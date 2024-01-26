@@ -12,3 +12,8 @@ There are a few techniqies of sorting data:
 
 1. Quicksort
 
+Quicksort algorithm uses the divide and conquer method. It partitions the unsorted elements based on the pivot element. After each iteration,
+the partition element is placed at the correct position in the array. The iterations repeat until all elements are placed in their respective correct positions. 
+
+Time Complexity: 
+O(n^2)
