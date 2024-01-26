@@ -41,7 +41,7 @@ int main()
 {   int n;
     printf("Enter the number of elements:");
     scanf("%d",&n);
-    //printf("%d",n);
+    
     int arr[n];
     printf("Enter the unsorted numbers:");
     for(int i=0;i<n;i++)
