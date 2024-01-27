@@ -9,7 +9,7 @@ There are a few techniqies of sorting data:
 4. Heap Sort
 5. Bubble Sort
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Quicksort
 
@@ -25,3 +25,10 @@ Best Case: O(nlog N)
 Time Complexity:
 Worst Case: O(n^2)
 Best Case: O(N)
+
+3. Bubble Sort
+
+Time Complexity:
+Worst Case: O(n^2)
+Best Case: O(n)
+
