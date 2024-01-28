@@ -23,12 +23,19 @@ Best Case: O(nlog N)
 2. Insertion Sort
 
 Time Complexity:
-Worst Case: O(n^2)
+Worst Case: O(N^2)
 Best Case: O(N)
 
 3. Bubble Sort
 
 Time Complexity:
-Worst Case: O(n^2)
-Best Case: O(n)
+Worst Case: O(N^2)
+Best Case: O(N)
+
+4. Selection Sort
+
+Time Complexity:
+Worst Case: O(N^2)
+Best Case: O(N^2)
+
 
