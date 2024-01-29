@@ -34,6 +34,8 @@ Best Case: O(N)
 
 4. Selection Sort
 
+Selection sort works by selecting the smallest element in the array and putting it into the 'sorted' array and the rest in the 'unsorted' array. The smallest element is selected and swapped with the first element in the unsorted array.
+
 Time Complexity:
 Worst Case: O(N^2)
 Best Case: O(N^2)
