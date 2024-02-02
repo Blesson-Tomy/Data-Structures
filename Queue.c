@@ -1,12 +1,3 @@
-/********************************************************************************************
- * File             :   Queue.c
- * Program          :   Program to perform Queue operation
- * Language         :   C Language
- * Author           :   Blesson Karikulammalayil Tomy
- * Version          :   1.0
- * Date             :   19/10/2023
-********************************************************************************************/
-
 #include<stdio.h>
 int size, head=-1, tail=-1;
 int arr[10];

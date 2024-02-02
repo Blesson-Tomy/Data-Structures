@@ -1,10 +1,3 @@
-/**********************************************************************************
- * File             :   Bubble.c
- * Program          :   Program to perform bubble search
- * Language         :   C Language
- * Roll No	        :	22
-***********************************************************************************/
-
 #include <stdio.h>
 void quick(int arr[], int, int);
 int partition(int arr[], int, int);

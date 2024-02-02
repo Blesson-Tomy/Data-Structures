@@ -1,12 +1,3 @@
-/**********************************************************************************
- * File             :   Binary.c
- * Program          :   Program to perform binary search
- * Language         :   C Language
- * Author           :   Blesson Karikulammalayil Tomy
- * Class	    :	CSE B
- * Roll No	    :	22
- * Date             :   21/09/2023
-***********************************************************************************/
 #include <stdio.h>
 
 int main() {

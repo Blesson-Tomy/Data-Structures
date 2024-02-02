@@ -1,12 +1,3 @@
-/********************************************************************************************
- * File             :   Sparse.c
- * Program          :   Program to create a Sparse Matrix
- * Language         :   C Language
- * Author           :   Blesson Karikulammalayil Tomy
- * Version          :   1.0
- * Date             :   12/10/2023
-********************************************************************************************/
-
 #include <stdio.h>
 
 int main()

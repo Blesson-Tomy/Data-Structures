@@ -1,12 +1,3 @@
-/********************************************************************************************
- * File             :   Stack.c
- * Program          :   Program to perform stack operation
- * Language         :   C Language
- * Author           :   Blesson Karikulammalayil Tomy
- * Version          :   1.0
- * Date             :   18/10/2023
-********************************************************************************************/
-
 #include<stdio.h>
 int size, top=-1;
 int arr[10];
