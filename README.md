@@ -4,7 +4,7 @@ SORTING
 There are various sorting techniques in data structures that allow us to efficiently arrange data based on the order of numbers or characters.
 There are a few techniqies of sorting data:
 1. Quicksort
-2. Selection Sort
+2. Selection Sort 
 3. Insertion Sort
 4. Heap Sort
 5. Bubble Sort
@@ -33,6 +33,8 @@ Worst Case: O(N^2)
 Best Case: O(N)
 
 4. Selection Sort
+
+Selection sort works by selecting the smallest element in the array and putting it into the 'sorted' array and the rest in the 'unsorted' array. The smallest element is selected and swapped with the first element in the unsorted array.
 
 Time Complexity:
 Worst Case: O(N^2)
