@@ -1,3 +1,5 @@
+# S3_Data_Structures_Lab
+
 A data structure is the fundamental method of organising and storing data for efficient use in modern systems. It is implemented by all the companies that work with technology to store, process and retrieve large amounts of data.
 
 SORTING
